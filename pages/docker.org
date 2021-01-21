@@ -4,4 +4,3 @@
 ```bash
 yum install docker-ce
 ```
-** ```yum install docker-ce ```
