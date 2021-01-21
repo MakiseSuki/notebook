@@ -1,5 +1,3 @@
 #+TITLE: Docker
 
 ** install
-** [[Jan 21st, 2021]]
-** dd
