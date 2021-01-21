@@ -1,7 +1,6 @@
 #+TITLE: Docker
 
-**
-** install
+** /install
 ```bash
 yum install docker-ce
 ```
