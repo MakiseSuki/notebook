@@ -1,10 +1,10 @@
 #+TITLE: Docker
 
-** LATER install
+** NOW install
 :PROPERTIES:
 :todo: 1611207051999
-:done: 1611207056978
 :later: 1611207058269
+:done: 1611207056978
 :END:
 ```bash
 yum install docker-ce
