@@ -1,6 +1,6 @@
 #+TITLE: Docker
 
-** NOW install
+** LATER install
 :PROPERTIES:
 :todo: 1611207051999
 :later: 1611207058269
