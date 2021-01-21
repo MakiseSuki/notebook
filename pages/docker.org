@@ -4,6 +4,4 @@
 ```bash
 yum install docker-ce
  ```
-*** sdff
-*** ```
 ** ```yum install docker-ce ```
