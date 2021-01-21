@@ -1,8 +1,8 @@
 #+TITLE: Docker
 
 ** install
-```mysql
-insert into 
+```bash
+yum install docker-ce
  ```
 *** sdff
 *** ```
